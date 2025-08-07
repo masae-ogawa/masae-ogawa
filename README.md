@@ -33,8 +33,8 @@
 
 - Python（データ処理・業務自動化）
 - pandas, Streamlit（軽量Webアプリ構築）
-- GitHub（バージョン管理＆公開）
-- ChatGPT（開発の壁打ち＆コード改善）
+- GitHub（バージョン管理・公開・README）
+- ChatGPT（設計・コード修正の補助）
 
 ---
 
