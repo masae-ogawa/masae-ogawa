@@ -1,46 +1,50 @@
-# 👋 Masae Ogawa | Indie Developer
+# 👋 Masae Ogawa | Webツール × 自動化 × 個人開発
 
-個人で業務効率化・会計支援などの**Webツール**を開発しています。  
-現在は国内向けのCSV変換ツールを公開中。今後は**複数のプロダクト**を展開予定です。
+業務効率化や会計支援に役立つ、**軽量で実用的なWebツール**を個人開発しています。  
+現在は freee対応のCSV変換ツールを公開中。今後も複数のプロダクトを展開予定です。
 
 ---
 
-## 🚀 Current Product
+## 🚀 現在公開中のツール
 
-### 📄 ゆうちょ明細 → freee形式 CSV変換ツール  
-ゆうちょ銀行のCSV明細を、freeeが指定するアップロード用CSV形式に変換するWebアプリです。  
-無料・登録不要で、誰でもすぐ使えます。
+### 📄 ゆうちょ明細 → freee形式 CSV変換ツール
 
-- 🛠️ 技術：Python, pandas, Streamlit
+ゆうちょ銀行のCSV明細を、freeeのアップロード形式に自動変換するWebアプリです。  
+**無料・登録不要・ブラウザのみで完結**する軽量ツール。
+
+- 🛠️ 使用技術：Python, pandas, Streamlit
 - 🔗 Webアプリ：[https://yuucho-to-freee.streamlit.app/](https://yuucho-to-freee.streamlit.app/)
-- 💻 GitHubリポジトリ：[masae-ogawa/yuucho-to-freee](https://github.com/masae-ogawa/yuucho-to-freee)
+- 💻 GitHub：[masae-ogawa/yuucho-to-freee](https://github.com/masae-ogawa/yuucho-to-freee)
 
 ---
 
-## 📦 Upcoming Projects
+## 📦 今後のプロダクト計画
 
 ### ✍️ 第2弾プロダクト（開発中）
-次は**海外向け or AI・自動化に関連したプロダクト**をリリース予定です。  
-開発・ローンチの進捗は [@masae_dev](https://x.com/masae_dev) にて随時更新中。
+
+次は**AIや自動化に関するツール**を開発予定です。  
+日常業務やデータ整理をもっとスムーズにすることが目標です。
+
+進捗やお知らせは [@masae_dev](https://x.com/masae_dev) にて随時更新中。
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 主な技術スタック
 
-- Python（CSV処理・スクリプト作成）
-- pandas, Streamlit
-- GitHub（バージョン管理に挑戦中）
-- ChatGPTを活用して問題を解決しながら開発しています
-
----
-
-## 📬 Contact & Links
-
-- 🧵 X (旧Twitter)：[@masae_dev](https://x.com/masae_dev)
-- 📦 GitHub：[@masae-ogawa](https://github.com/masae-ogawa)
-- 🌐 Portfolio（準備中）
+- Python（データ処理・業務自動化）
+- pandas, Streamlit（軽量Webアプリ構築）
+- GitHub（バージョン管理＆公開）
+- ChatGPT（開発の壁打ち＆コード改善）
 
 ---
 
-> 🎯 「軽くて実用的なツール」を必要な人に届けることがテーマです。  
-> ご意見・応援・フィードバックなど、いつでも歓迎です！
+## 📬 各種リンク
+
+- 🧵 X（旧Twitter）：[@masae_dev](https://x.com/masae_dev)
+- 💻 GitHub：[@masae-ogawa](https://github.com/masae-ogawa)
+- 🌐 Portfolio：準備中（今後公開予定）
+
+---
+
+> 🎯 「軽くて実用的なツールを必要な人に届ける」ことがテーマです。  
+> ご意見・フィードバックなど大歓迎です！
